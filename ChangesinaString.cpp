@@ -57,7 +57,7 @@ int main() {
        }
         if(n!=1)
         cout<<ans<<endl;
-        else cout<<0<<endl;
+        else cout<<0<<endl
     }
  
  
