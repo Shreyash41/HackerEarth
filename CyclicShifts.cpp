@@ -25,7 +25,7 @@ int main() {
         {
             arr[i]=(n&1);
             n=n>>1;
-            //cout<<arr[i]<<" ";
+   
         }
         
         for(int i=0;i<16;i++)
