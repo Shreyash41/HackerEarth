@@ -42,7 +42,7 @@ int main() {
             //cout<<i<<" ";
             if(store.count(i+1))
             {
-                //cout<<i+1<<" "<<get_freq(i+1,l,r)<<" ";
+          
                 if(freq[i]!=get_freq(i+1,l,r))
                 {
                     if(get_freq(i+1,l,r)!=0)
