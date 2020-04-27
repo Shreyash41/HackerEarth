@@ -24,7 +24,7 @@ int main() {
         sort(fl,fl+m,compare);
         if(src[0]>fl[0])
         {
-            cout<<-1<<endl;
+            cout<<-1<<endl
             return 0;
         }
         ll ans[m]={},i=0,j=0;
