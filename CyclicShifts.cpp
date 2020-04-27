@@ -40,7 +40,7 @@ int main() {
             //cout<<ans[i]<<" ";
             f+=ans[i]*pow(2,i);
         }
-        cout<<f<<endl
+        cout<<f<<endl;;
     }
  
 }
